@@ -1,0 +1,16 @@
+{
+  "name": "report-pdf-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akhsan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mustache": "^4.2.0",
+    "puppeteer": "^23.7.1"
+  }
+}
